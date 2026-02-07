@@ -67,5 +67,11 @@ Profesional enfocado en la arquitectura de software, automatización de infraest
 
 ### 📊 Actividad en GitHub
 
-![Estadísticas de LordTasama](https://github-readme-stats.vercel.app/api?username=LordTasama&show_icons=true&theme=gotham&hide_border=true)
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=LordTasama&layout=compact&theme=gotham&hide_border=true&langs_count=6)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LordTasama&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordTasama&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordTasama&theme=gotham&hide_border=true" alt="streak stats" />
+</div>
