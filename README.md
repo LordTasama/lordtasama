@@ -1,10 +1,16 @@
+<div align="right">
+  <a href="README.es.md">
+    <img src="https://img.shields.io/badge/Versión%20en-Español-red?style=for-the-badge" alt="Versión en Español">
+  </a>
+</div>
+
 # Tasama | Full Stack Developer & DevOps
 
-Profesional enfocado en la arquitectura de software, automatización de infraestructura y gestión de identidad. Especializado en desarrollar soluciones escalables que optimizan procesos operativos y reducen tiempos de gestión mediante integraciones complejas y despliegue automatizado.
+Software Architect focused on infrastructure automation, identity management, and scalable solutions. Specialized in optimizing operational workflows and reducing management overhead through complex integrations and automated deployment pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Infraestructura
+### 🛠️ Tech Stack & Infrastructure
 
 **Core & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,39 +34,37 @@ Profesional enfocado en la arquitectura de software, automatización de infraest
 
 ---
 
-### 🚀 Proyectos Desplegados (Live Projects)
+### 🚀 Deployed Projects (Live)
 
 **🔐 Prism Group: Ecosystem (Identity & Insights)**
-> *Arquitectura de seguridad y Business Intelligence.*
-* **Core Identity:** Gestión centralizada de accesos y roles.
-* **Prism Insights:** Dashboard de reportes inteligentes y estadísticas.
+> *Security Architecture & Business Intelligence.*
+* **Core Identity:** Centralized Role-Based Access Control (RBAC) system.
+* **Prism Insights:** Intelligent reporting dashboard and real-time statistics.
 * **Stack:** Python, React, MySQL, SeaTable.
 * 🔗 **Live URL:** [insights.prismgrp.com](https://insights.prismgrp.com)
 
-**🏥 INTEI: Optimización Operativa**
-> *Sistema de gestión clínica y administrativa.*
-* Automatización de informes mensuales (Reducción del 75% de tiempo).
+**🏥 INTEI: Operational Optimization**
+> *Clinical & Administrative Management System.*
+* Automated monthly reporting system (**75% time reduction**).
 * **Stack:** PHP (Laravel), SQL.
 * 🔗 **Live URL:** [app.intei.com.co](https://app.intei.com.co)
 
-**🎓 Formación Continua SOS IPS**
-> *Plataforma educativa LMS.*
-* Desarrollo de tema personalizado y dashboards para estudiantes/instructores.
+**🎓 SOS IPS: Continuous Education**
+> *LMS Educational Platform.*
+* Custom theme development and Instructor/Student dashboards.
 * **Stack:** WordPress, Tutor LMS Pro, PHP.
 * 🔗 **Live URL:** [formacioncontinuasosips.com](https://formacioncontinuasosips.com)
 
 ---
 
-### 💼 Experiencia Corporativa (Privada / Banca)
+### 💼 Corporate Experience (Private / Banking)
 
-> *Debido a acuerdos de confidencialidad, el código fuente y acceso a estos proyectos es restringido (Intranet / Redes Privadas).*
+> *Due to NDA compliance, source code and access to these projects are restricted (Intranet / Private Networks).*
 
-**Automatización y Análisis KYC (Sector Financiero/Logística)**
-* Sistema de auditoría para **International Logistics & Business Management**.
-* Integración con IA para validación de archivos JIRA contra bases de datos de riesgo.
+**KYC Automation & Analysis (Fintech/Logistics)**
+* Audit system for **International Logistics & Business Management**.
+* AI integration for JIRA file validation against Risk/KYC databases.
 
-**Gestión de Permisos Corporativos**
-* Control de roles para más de **75 aplicaciones** y **2000 usuarios**.
-* Infraestructura desplegada en servidores privados (Banco Itaú).
-
----
+**Enterprise Permission Management**
+* Role management for **75+ applications** and **2000+ users**.
+* Infrastructure deployed on private banking servers (Itaú Bank).
